@@ -16,6 +16,10 @@ header{
     justify-content: space-between;
     align-items: center;
 }
+.pib{
+    color: white;
+    text-indent: 30px;
+}
 h1{
     font-weight: bolder;
     text-indent: 15px;
@@ -26,6 +30,7 @@ main{
     flex-direction: row;
     margin-left: 50px;
     margin-right: 50px;
+    justify-content: space-between;
 }
 .caption{
     font-weight: bolder;
@@ -46,6 +51,9 @@ main{
 }
 .cap5{
     color: rgb(255, 115, 0);
+}
+.cap6{
+    color: rgb(255, 72, 0);
 }
 .description{
     margin-bottom: 0;
