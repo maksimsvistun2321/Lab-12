@@ -23,10 +23,7 @@ h1{
 main{
     flex: 1 1 auto;
     display: flex;
-    flex-direction: column;
-
-}
-.main-page{
+    flex-direction: row;
     margin-left: 50px;
     margin-right: 50px;
 }
@@ -40,6 +37,9 @@ main{
 }
 .cap2{
     color: rgba(0, 26, 255, 0.781);
+}
+.cap3{
+    color: rgb(24, 179, 10);
 }
 .description{
     margin-bottom: 0;
