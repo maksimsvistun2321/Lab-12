@@ -38,6 +38,9 @@ main{
 .cap1{
     color: rgb(0, 183, 255);
 }
+.cap2{
+    color: rgba(0, 26, 255, 0.781);
+}
 .description{
     margin-bottom: 0;
     font-size: 15px;
